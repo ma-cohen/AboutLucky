@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Lucky Cohen</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        Hi, my name is Lucky.
+        \n\nI am the cutest dog in the world.
+        \nI love to eat and sleep and bark on dogs.
+        \nI love going to long walks and play with Matan.
+        \nI am kinda old now , but still like to play.
+        \nI hope ill have man more fun years with my family
+        \nWoof Woof Woof , that how i really talk
+        \nWoof Woof Woof
+        \nWoof Woof Woof
+        \nWoof Woof Woof
+        \n
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
